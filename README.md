@@ -1,6 +1,8 @@
 # TallytoBI
 Welcome to the Tally Template App GitHub repository! 📊💼
 
+If you were directed to this page through a link, then you might need to download this folder, and need to refer this 'tally-database-loader'.
+
 Unlock the power of your Tally data with our interactive template app for Power BI. Say goodbye to static reports and hello to dynamic insights. Our template app empowers users to seamlessly import their Tally data and transform it into captivating visual stories.
 
 Features:<br>
