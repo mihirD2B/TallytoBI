@@ -1,0 +1,20 @@
+{
+    "database": {
+        "technology": "mssql",
+        "server": "datatobiztally.database.windows.net",
+        "port": 1433,
+        "schema": "tally_demo",
+        "username": "usernamehere",
+        "password": "passwordhere",
+        "loadmethod": "insert"
+    },
+    "tally": {
+        "server": "localhost",
+        "port": 9000,
+        "master": true,
+        "transaction": true,
+        "fromdate": "20000401",
+        "todate": "20500331",
+        "company": ""
+    }
+}
